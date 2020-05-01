@@ -15,8 +15,8 @@ class TinyMCEHelper extends Helper {
      */
     protected $_defaultConfig = [
         'script' => [
-            'url' => 'https://cdn.jsdelivr.net/npm/tinymce@5.1.2/tinymce.min.js',
-            'integrity' => 'sha256-DdWABQXQvgw5MFqHCMQ34eo2D3GTcL6xA36LVz1sAmQ=',
+            'url' => 'https://cdn.jsdelivr.net/npm/tinymce@5.2.2/tinymce.min.js',
+            'integrity' => 'sha256-MYEJOVodtWOmhHp5ueLNwfCwBBGKWJWUucfLvXzdles=',
         ],
     ];
 
